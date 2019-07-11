@@ -1,4 +1,4 @@
-# Python Training for the Fiji Meteorological Services
+# Python Training for the Fiji Meteorological Service
 
 Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 
@@ -12,6 +12,7 @@ Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 - [Installing the Anaconda Python Distribution](#installing-the-anaconda-Ppython-distribution)
 - [Installation of Additional Libraries](#installation-of-additional-libraries)
 <!---- [Running the Jupyter Notebooks](#running-the-jupyter-notebooks)--->
+<!---https://www.tutorialspoint.com/python3/index.htm--->
 
 ## Python
 
@@ -26,7 +27,7 @@ You will first need to to download (~662MB) and install the **Anaconda Python Di
 
 [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
 
-Execute the downloaded file and follow the instructions to install Anaconda **For me**. Once installed, the **Anaconda Documentation** webpage will open in your internet browser with instructions on **Getting started with Anaconda**. Follow the instructions. You can close the **Anaconda Cloud** webpage on the internet browser.
+Execute the downloaded file and follow the instructions to install Anaconda **For me**. Once installed, the **Anaconda Documentation** webpage will open in your internet browser with instructions on **Getting started with Anaconda**. You will follow the instructions after you perform the tasks below. You can close the **Anaconda Cloud** webpage on the internet browser.
 
 From the *Start* menu, right click on the **Anaconda Prompt** under **Anaconda (64-bit)** select *More* and click on *Run as administrator* (you may need administrator privileges).
 
@@ -47,6 +48,8 @@ You also might want to install [pip](https://github.com/pypa/pip) to install pac
 ```
 $ conda install pip
 ```
+
+Now that you have installed these updates, return to the **Anaconda Documentation** webpage in your internet browser and follwow the instructions on **Getting started with Anaconda**. You can use Python using several applications. We will be focussing on two applications for the training: [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org/). However, in the long-term, we will stick to Spyder.
 
 ## Installation of Additional Libraries
 
