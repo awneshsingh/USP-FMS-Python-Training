@@ -1,10 +1,10 @@
 # Python for the Fiji Meteorological Services
 
+Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
+
 [Pacific Centre for Environment and Sustainable Development (PaCE-SD)](http://pace.usp.ac.fj/),
 
 [The University of the South Pacific](http://www.usp.ac.fj), Suva, Fiji
-
-Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 
 
 ## Table of Contents
