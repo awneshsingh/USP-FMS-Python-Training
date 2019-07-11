@@ -1,4 +1,4 @@
-# Python for the Fiji Meteorological Services
+# Python Training for the Fiji Meteorological Services
 
 Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 
