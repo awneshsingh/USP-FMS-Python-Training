@@ -11,8 +11,8 @@ Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 - [The Anaconda Python Distribution](#the-anaconda-python-distribution)
 - [Installing the Anaconda Python Distribution](#installing-the-anaconda-Ppython-distribution)
 - [Installation of Additional Libraries](#installation-of-additional-libraries)
-<!---- [Running the Jupyter Notebooks](#running-the-jupyter-notebooks)--->
-<!---https://www.tutorialspoint.com/python3/index.htm--->
+- [Some Exercises](#some-exercises)
+
 
 ## Python
 
@@ -23,7 +23,7 @@ What is Python? Python is an open-source high-level programming language that le
 Anaconda is a Python-based data processing and scientific computing platform. It has built in many very useful third-party libraries. Installing Anaconda is equivalent to automatically installing Python and some commonly used libraries so it makes the installation so much easier than regular Python installation. If you don't install Anaconda, but instead only install Python from https://www.python.org/, you also need to use pip to install various libraries one by one. It is painful and you need to consider compatibility, thus it is highly recommended to directly install Anaconda.
 
 ## Installing the Anaconda Python Distribution
-You will first need to to download (~662MB) and install the **Anaconda Python Distribution**. It is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. It includes the python interpreter itself, the python standard library as well as a set of packages exposing data structures and methods for data manipulation and scientific computing and visualization. In particular, it provides [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [Matplotlib](http://matplotlib.org/), [scikit-learn](http://scikit-learn.org/stable/), etc., i.e., all the main packages we will be using during the semester. The Anaconda Python distribution (**NOTE**: select the version shipping with Python 3.7) should be downloaded for your platform (either 32-bit or 64-bit operating system) for the respective operating system (e.g., Windows) from:
+You will first need to to download (~662MB) and install the **Anaconda Python Distribution**. It is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. It includes the python interpreter itself, the python standard library as well as a set of packages exposing data structures and methods for data manipulation and scientific computing and visualization. In particular, it provides [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [Matplotlib](http://matplotlib.org/), [scikit-learn](http://scikit-learn.org/stable/), etc., i.e., all the main packages we will be using during the semester. The Anaconda Python distribution (**NOTE**: select the version shipping with Python 3.7) should be downloaded for your platform (either 32-bit or 64-bit operating system) for the respective operating system (e.g., Windows) from: (Note the file has already be downloaded for the 64-bit version and shared with you in the FNS share-drive.)
 
 [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
 
@@ -71,7 +71,7 @@ $ conda install netcdf4
 
 <!---
 ### libjpeg
-[libjpeg] (https://pypi.python.org/pypi/jpeg4py/0.1.1) is a free library with functions for handling the JPEG image data format and be installed by typing:
+[libjpeg](https://pypi.python.org/pypi/jpeg4py/0.1.1) is a free library with functions for handling the JPEG image data format and be installed by typing:
 ```
 $ brew install libjpeg
 ```
@@ -150,22 +150,12 @@ type
 $ exit
 ```
 
-<!---
-## Running the Jupyter Notebooks
+## Some Exercises
 
-The material for the course is in the form of [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). In a nutshell, a Jupyter notebook is a web-based interactive computational environment (i.e., running in the browser) where you can combine Python code execution, text, mathematics, plots and rich media into a single document, which makes it an ideal medium for teaching and exploring code. 
+There are numerous Python exercises to try out. Some of them are listed below:
 
-Create a folder on your Desktop and name it PC428_Python. Then on you Anaconda terminal, navigate to this folder (e.g., type cd \Users\singh_aw\Desktop\PC428_Python\ and press enter) then type:
+- [https://www.tutorialspoint.com/python3/index.htm](https://www.tutorialspoint.com/python3/index.htm)
 
-```
-$ jupyter notebook
-```
 
-That should bring up the Jupyter notebook dashboard (looking as below), you should be ready to go !
 
-![](http://nbviewer.ipython.org/github/nicolasfauchereau/Python-for-data-analysis-and-visualisation/blob/master/session_1/notebooks/images/ipython_dashboard.png)
-
-Note that what you see above and what you would see on your screen would be differernt. I shall be giving you notes and exercises to do on Python. These will be provided on Moodle and you will need to download and save them in the **PC428_Python** folder you created on your Desktop.
-
---->
 
