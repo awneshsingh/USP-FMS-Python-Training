@@ -2,9 +2,7 @@
 
 Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 
-[Pacific Centre for Environment and Sustainable Development (PaCE-SD)](http://pace.usp.ac.fj/),
-
-[The University of the South Pacific](http://www.usp.ac.fj), Suva, Fiji
+[Pacific Centre for Environment and Sustainable Development (PaCE-SD)](http://pace.usp.ac.fj/), [The University of the South Pacific](http://www.usp.ac.fj), Suva, Fiji
 
 
 ## Table of Contents
@@ -17,22 +15,20 @@ Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 
 ## Python
 
-What is Python? Python is an open-source programming language that lets you work more quickly and integrate your systems more effectively. Python is realesed in two versions: Python 2 and Python 3 and is available from https://www.python.org/. Python uses [several libraries](https://docs.python.org/3/library/) to perform a range of tasks. You can learn more about Python and do some exercises here: https://www.w3schools.com/python/default.asp
+What is Python? Python is an open-source high-level programming language that lets you work more quickly and integrate your systems more effectively, and let you do sophisticated data analysis. Python is realesed in two versions: Python 2 and Python 3 and is available from https://www.python.org/. We shall use Python 3 version for this training. Python uses [several libraries](https://docs.python.org/3/library/) to perform a range of tasks, which needs to be installed seperately. You can learn more about Python and do some exercises here: https://www.w3schools.com/python/default.asp
 
 ## The Anaconda Python Distribution
 
-Anaconda is a Python-based data processing and scientific computing platform. It has built in many very useful third-party libraries. Installing Anaconda is equivalent to automatically installing Python and some commonly used libraries such as Numpy, Pandas, Scrip, and Matplotlib, so it makes the installation so much easier than regular Python installation. If you don't install Anaconda, but instead only install Python from https://www.python.org/, you also need to use pip to install various libraries one by one. It is painful and you need to consider compatibility, thus it is highly recommended to directly install Anaconda.
+Anaconda is a Python-based data processing and scientific computing platform. It has built in many very useful third-party libraries. Installing Anaconda is equivalent to automatically installing Python and some commonly used libraries so it makes the installation so much easier than regular Python installation. If you don't install Anaconda, but instead only install Python from https://www.python.org/, you also need to use pip to install various libraries one by one. It is painful and you need to consider compatibility, thus it is highly recommended to directly install Anaconda.
 
 ## Installing the Anaconda Python Distribution
 You will first need to to download (~662MB) and install the **Anaconda Python Distribution**. It is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. It includes the python interpreter itself, the python standard library as well as a set of packages exposing data structures and methods for data manipulation and scientific computing and visualization. In particular, it provides [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [Matplotlib](http://matplotlib.org/), [scikit-learn](http://scikit-learn.org/stable/), etc., i.e., all the main packages we will be using during the semester. The Anaconda Python distribution (**NOTE**: select the version shipping with Python 3.7) should be downloaded for your platform (either 32-bit or 64-bit operating system) for the respective operating system (e.g., Windows) from:
 
-<!---[http://continuum.io/downloads](http://continuum.io/downloads)--->
 [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
-<!---[https://www.python.org/downloads/](https://www.python.org/downloads/)--->
 
 Execute the downloaded file and follow the instructions to install Anaconda **For me**. Once installed, the **Anaconda Documentation** webpage will open in your internet browser with instructions on **Getting started with Anaconda**. Follow the instructions. You can close the **Anaconda Cloud** webpage on the internet browser.
 
-From the *Start* menu, right click on the **Anaconda Prompt** under **Anaconda (64-bit)** select *More* and click on *Run as administrator*.
+From the *Start* menu, right click on the **Anaconda Prompt** under **Anaconda (64-bit)** select *More* and click on *Run as administrator* (you may need administrator privileges).
 
 Type the following at the terminal to update to the latest version of all pre-installed packages (the **$** sign represents the prompt, e.g., **(base) C:\Windows\system32>**) and press *Enter*:
 
