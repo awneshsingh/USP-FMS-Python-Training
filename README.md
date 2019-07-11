@@ -12,7 +12,7 @@ Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 - [Installing the Anaconda Python Distribution](#installing-the-anaconda-Ppython-distribution)
 - [Installation of Additional Libraries](#installation-of-additional-libraries)
 - [Some Exercises](#some-exercises)
-- [Remember...](#remember...)
+- [Remember...](#remember)
 
 
 ## Python
