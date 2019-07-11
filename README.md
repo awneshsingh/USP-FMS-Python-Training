@@ -155,4 +155,6 @@ There are numerous Python exercises to try out fron the internet. Some of the go
 - [https://www.tutorialspoint.com/python3/index.htm](https://www.tutorialspoint.com/python3/index.htm)
 - [https://www.w3schools.com/python/default.asp](https://www.w3schools.com/python/default.asp)
 
+## Remember...
 
+Learning Python programming 
