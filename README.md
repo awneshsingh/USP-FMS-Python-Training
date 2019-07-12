@@ -48,7 +48,7 @@ You also might want to install [pip](https://github.com/pypa/pip) to install pac
 $ conda install pip
 ```
 
-Now that you have installed these updates, return to the **Anaconda Documentation** webpage in your internet browser and follwow the instructions on **Getting started with Anaconda**. You can use Python using several applications. We will be focussing on two applications for the training: [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org/). However, in the long-term, we will stick to Spyder.
+Now that you have installed these updates, return to the **Anaconda Documentation** webpage in your internet browser and follow the instructions on **Getting started with Anaconda**. You can use Python using several applications. We will be focussing on two applications for the training: [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org/). However, in the long-term, we will stick to Spyder.
 
 ## Installation of Additional Libraries
 
