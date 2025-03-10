@@ -1,8 +1,8 @@
-# Python Training for the Fiji Meteorological Service
+# Python Training for the National Meteorological and Hydrological Services
 
 Contact: [Dr. Awnesh Singh](mailto:awnesh.singh@usp.ac.fj)
 
-[Pacific Centre for Environment and Sustainable Development (PaCE-SD)](http://pace.usp.ac.fj/), [The University of the South Pacific](http://www.usp.ac.fj), Suva, Fiji
+[Centre for Sustainable Futures]([http://pace.usp.ac.fj/](https://www.usp.ac.fj/centre-for-sustainable-futures/)), [The University of the South Pacific](http://www.usp.ac.fj), Suva, Fiji
 
 
 ## Table of Contents
