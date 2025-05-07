@@ -50,6 +50,32 @@ $ conda install pip
 
 Now that you have installed these updates, return to the **Anaconda Documentation** webpage in your internet browser and follow the instructions on **Getting started with Anaconda**. You can use Python using several applications. We will be focussing on two applications for the training: [Spyder](https://www.spyder-ide.org/) and [Jupyter Notebook](https://jupyter.org/). However, in the long-term, we will stick to Spyder.
 
+## Creating a new Python Environment
+
+### Why create a new environment?
+
+Anaconda's conda environment is beneficial because it offers isolation, reproducibility, and streamlined package management. It allows you to create isolated environments for specific projects, ensuring that dependencies and package versions don't conflict. This also makes it easier to share your project's environment with others, ensuring they have the same configurations. [Anaconda Environments](https://www.anaconda.com/docs/tools/working-with-conda/environments).
+
+Use the following command to create a new python environment:
+
+```
+# Replace <ENV_NAME> with a name for your environment
+# Replace <PACKAGE> with your desired package
+# Replace <VERSION> with your desired version (optional)
+$ conda create --name <ENV_NAME> python=<VERSION> <PACKAGE>=<VERSION>
+```
+Example:
+
+```
+$ conda create --name myenv python=3.11.10 pandas numpy sckit-learn=1.6.1
+```
+
+Activate your new environment using the ```activate``` command:
+
+```
+$ activate myenv
+```
+
 ## Installation of Additional Libraries
 
 Python uses libraries to perform specific tasks. Some of these librarires are alreay installed when you intall Anaconda using the procedure above. Type the following to see the list of libraries already installed:
